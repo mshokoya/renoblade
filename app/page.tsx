@@ -100,22 +100,22 @@ export default function Home() {
 
         <h3 className='md:text-3xl md:leading-[3rem] text-left leading-[2rem]'>
           <div className='text-center mb-3'>We&apos;ll handle:</div>
-          <span className='text-red-500'>1</span>) Generate Leads for your business (<span className='text-red-500'>Lead Generation</span>)
+          <span className='text-red-500'>1)</span> Generate Leads for your business (<span className='text-red-500'>Lead Generation</span>)
           <br/>
           <br/>
-          <span className='text-red-500'>2</span>) Build effective and long-term relationships with potential customers (<span className='text-red-500'>Client Nurturing</span>)
+          <span className='text-red-500'>2)</span> Build effective and long-term relationships with potential customers (<span className='text-red-500'>Client Nurturing</span>)
           <br/>
           <br/>
-          <span className='text-red-500'>3</span>) Book leads into your calendar (<span className='text-red-500'>Appointment Setting</span>)
+          <span className='text-red-500'>3)</span> Book leads into your calendar (<span className='text-red-500'>Appointment Setting</span>)
           <br/>
           <br/>
-          <span className='text-red-500'>4</span>) Run and optimising your marketing campaign ads (<span className='text-red-500'>Marketing</span>)
+          <span className='text-red-500'>4)</span> Run and optimising your marketing campaign ads (<span className='text-red-500'>Marketing</span>)
           <br/>
           <br/>
-          <span className='text-red-500'>5</span>) Negotiate or convince a lead to purchase your offer over your competitors (<span className='text-red-500'>Sales/Closing</span>)
+          <span className='text-red-500'>5)</span> Negotiate or convince a lead to purchase your offer over your competitors (<span className='text-red-500'>Sales/Closing</span>)
           <br/>
           <br/>
-          <span className='text-red-500'>6</span>) Obtain <span className='text-red-500'>Google</span>, <span className='text-red-500'>Facebook</span> & <span className='text-red-500'>Trustpilot Reviews</span> from customers on your behalf to boosts your company&apos;s ranking on Google search; leading to more organic traffic
+          <span className='text-red-500'>6)</span> Obtain <span className='text-red-500'>Google</span>, <span className='text-red-500'>Facebook</span> & <span className='text-red-500'>Trustpilot Reviews</span> from customers on your behalf to boosts your company&apos;s ranking on Google search; leading to more organic traffic
           <br/>
           <br/>
           <div className='text-center'>all you need to do is issue a quote and deliver a 5* service</div>
