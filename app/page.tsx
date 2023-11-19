@@ -58,7 +58,7 @@ export default function Home() {
         We Gaurantee We&apos;ll Fill Your Calendar With Qualified <span className='text-red-500'>Quote-Ready Leads FOR FREE</span>
       </div>
       <div className='md:text-xl font-semibold mb-4'>
-        Yes we&apos;ll work as your companies resonalised sales & marketing team
+        Yes we&apos;ll work as your company&apos;s personalised sales & marketing team
       </div>
       <div className='md:text-xl font-semibold md:mb-4'>
         YES WE WORK <span className='text-red-500'>COMPLETELY FOR FREE !!!</span>
@@ -95,27 +95,27 @@ export default function Home() {
 
       <div>
         <h1 className='font-semibold md:text-5xl md:leading-[4rem] md:font-bold mb-3 text-4xl leading-[2.5rem]'>
-          We&apos;ll Take You There. Secure <span className='text-red-500'>More Clients</span>, Aquire <span className='text-red-500'>More Revenue</span>, Expand Your Business
+          We&apos;ll Take You There. Secure <span className='text-red-500'>More Clients</span>, Acquire <span className='text-red-500'>More Revenue</span>, Expand Your Business
         </h1>
 
         <h3 className='md:text-3xl md:leading-[3rem] text-left leading-[2rem]'>
           <div className='text-center mb-3'>We&apos;ll handle:</div>
-          <span className='text-red-500'>1</span>) Generate Leads for you business (<span className='text-red-500'>Lead Generation</span>)
+          <span className='text-red-500'>1</span>) Generate Leads for your business (<span className='text-red-500'>Lead Generation</span>)
           <br/>
           <br/>
           <span className='text-red-500'>2</span>) Build effective and long-term relationships with potential customers (<span className='text-red-500'>Client Nurturing</span>)
           <br/>
           <br/>
-          <span className='text-red-500'>3</span>) Book leads into your calander (<span className='text-red-500'>Appointment Setting</span>)
+          <span className='text-red-500'>3</span>) Book leads into your calendar (<span className='text-red-500'>Appointment Setting</span>)
           <br/>
           <br/>
-          <span className='text-red-500'>4</span>) Run and optimising you marketing campaign ads (<span className='text-red-500'>Marketing</span>)
+          <span className='text-red-500'>4</span>) Run and optimising your marketing campaign ads (<span className='text-red-500'>Marketing</span>)
           <br/>
           <br/>
           <span className='text-red-500'>5</span>) Negotiate or convince a lead to purchase your offer over your competitors (<span className='text-red-500'>Sales/Closing</span>)
           <br/>
           <br/>
-          <span className='text-red-500'>6</span>) Obtain <span className='text-red-500'>Google</span>, <span className='text-red-500'>Facebook</span> & <span className='text-red-500'>Trustpilot Reviews</span> from customers on your behalf to boots you companies ranking on google search; leading to more organic traffic
+          <span className='text-red-500'>6</span>) Obtain <span className='text-red-500'>Google</span>, <span className='text-red-500'>Facebook</span> & <span className='text-red-500'>Trustpilot Reviews</span> from customers on your behalf to boosts your company&apos;s ranking on Google search; leading to more organic traffic
           <br/>
           <br/>
           <div className='text-center'>all you need to do is issue a quote and deliver a 5* service</div>
@@ -135,10 +135,10 @@ export default function Home() {
         <h3 className='md:text-3xl md:leading-[3rem] text-left leading-[2rem]'>
           <div className='text-center'>Kinda... There are some conditions; All you need to cover is the ad expense and we&apos;ll work our magic. You do not pay us a penny UNLESS we meet 2 conditions</div>
           <br/>
-          <span className='text-red-500'>1</span>) we make you a profit. This also takes into account the ad spend and our potencial service charge (so no matter what you make a profit)
+          <span className='text-red-500'>1</span>) we make you a profit. This also takes into account the ad spend and our potential service charge (so no matter what you make a profit)
           <br/>
           <br/>
-          <span className='text-red-500'>2</span>) we get AT MINIMUM 5 leads booked into your calander within the first month
+          <span className='text-red-500'>2</span>) we get AT MINIMUM 5 leads booked into your calendar within the first month
           <br/>
           <br/>
           <div className='text-center'>If we fail to meet these conditions then <span className='text-red-500'>you do not pay us a dime</span></div>
@@ -166,7 +166,7 @@ export default function Home() {
             <h3 className='text-left font-light text-xl mb-3 md:leading-10'>
               We develop dynamic strategies that are finely tuned to your brand,
               delivering faster customer conversions, optimizing your advertising budget,
-              and supporting your journey towards scalability.
+              and supporting your journey toward scalability.
             </h3>
             <h3 className='text-left font-light text-xl md:leading-10'>
               We also implement high-performing email retention strategies, enabling you to acquire a larger
@@ -183,21 +183,21 @@ export default function Home() {
               <h3 className='text-right font-bold'>01. Evaluation</h3>
               <div className='text-right font-medium'>Define your ICP (Ideal Customer Profile)</div>
               <p className='text-right font-light mb-3 md:leading-7'>
-                We provide 1-to-1 onboarding, target market panals & review past client campaigns to get a better understanding of your ideal customer profile
+                We provide 1-to-1 onboarding, target market panels & review past client campaigns to get a better understanding of your ideal customer profile
               </p>
             </div>
             <div>
-              <h3 className='text-left font-bold'>02. Preporation</h3>
+              <h3 className='text-left font-bold'>02. Preparation</h3>
               <div className='text-left font-medium'>Create a game plan</div>
               <p className='text-left font-light mb-3 md:leading-7'>
-                based off your ICP we can create relevent copy, attain relevant prospects and setup a step by step game plan to crack the TOF
+                based on your ICP we can create relevant copy, attain relevant prospects and set a step-by-step game plan to crack the TOF
               </p>
             </div>
             <div>
               <h3 className='text-right font-bold'>03. Execution</h3>
               <div className='text-right font-medium'>Manage Sequences</div>
               <p className='text-right font-light mb-3 md:leading-7'>
-                Once we start campaigns through calling, email & Linkedin, we track the response to book leads into your sales teams calander
+                Once we start campaigns through calling, email & Linkedin, we track the response to book leads into your sales team&apos;s calendar
               </p>
             </div>
             <div>
