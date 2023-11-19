@@ -135,10 +135,10 @@ export default function Home() {
         <h3 className='md:text-3xl md:leading-[3rem] text-left leading-[2rem]'>
           <div className='text-center'>Kinda... There are some conditions; All you need to cover is the ad expense and we&apos;ll work our magic. You do not pay us a penny UNLESS we meet 2 conditions</div>
           <br/>
-          <span className='text-red-500'>1</span>) we make you a profit. This also takes into account the ad spend and our potential service charge (so no matter what you make a profit)
+          <span className='text-red-500'>1)</span> we make you a profit. This also takes into account the ad spend and our potential service charge (so no matter what you make a profit)
           <br/>
           <br/>
-          <span className='text-red-500'>2</span>) we get AT MINIMUM 5 leads booked into your calendar within the first month
+          <span className='text-red-500'>2)</span> we get AT MINIMUM 5 leads booked into your calendar within the first month
           <br/>
           <br/>
           <div className='text-center'>If we fail to meet these conditions then <span className='text-red-500'>you do not pay us a dime</span></div>
@@ -180,28 +180,28 @@ export default function Home() {
           <h3 className='md:text-xl md:font-semibold md:mb-4 text-xl mb-3'>our process in 4 steps</h3>
           <div>
             <div>
-              <h3 className='text-right font-bold'>01. Evaluation</h3>
+              <h3 className='text-right font-bold'><span className='text-red-500'>01.</span> Evaluation</h3>
               <div className='text-right font-medium'>Define your ICP (Ideal Customer Profile)</div>
               <p className='text-right font-light mb-3 md:leading-7'>
                 We provide 1-to-1 onboarding, target market panels & review past client campaigns to get a better understanding of your ideal customer profile
               </p>
             </div>
             <div>
-              <h3 className='text-left font-bold'>02. Preparation</h3>
+              <h3 className='text-left font-bold'><span className='text-red-500'>02.</span> Preparation</h3>
               <div className='text-left font-medium'>Create a game plan</div>
               <p className='text-left font-light mb-3 md:leading-7'>
                 based on your ICP we can create relevant copy, attain relevant prospects and set a step-by-step game plan to crack the TOF
               </p>
             </div>
             <div>
-              <h3 className='text-right font-bold'>03. Execution</h3>
+              <h3 className='text-right font-bold'><span className='text-red-500'>03.</span> Execution</h3>
               <div className='text-right font-medium'>Manage Sequences</div>
               <p className='text-right font-light mb-3 md:leading-7'>
                 Once we start campaigns through calling, email & Linkedin, we track the response to book leads into your sales team&apos;s calendar
               </p>
             </div>
             <div>
-              <h3 className='text-left font-bold'>04. Optimization</h3>
+              <h3 className='text-left font-bold'><span className='text-red-500'>04.</span> Optimization</h3>
               <div className='text-left font-medium'>Optimise and Scale</div>
               <p className='text-left font-light md:leading-7'>
                 Each week we are making improvements so we can book around 1%-2.5% of contacts we reach, once we hit 
