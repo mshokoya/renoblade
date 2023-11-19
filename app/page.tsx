@@ -52,7 +52,7 @@ export default function Home() {
       />
       </div>
       <h1 className='text-2xl font-semibold md:mb-1'>
-        #1 Client Aqusition Agency
+        #1 Client Acquisition Agency
       </h1>
       <div className='font-semibold md:text-6xl md:leading-[4.5rem] md:font-bold mb-1 text-5xl leading-[3.5rem]'>
         We Gaurantee We&apos;ll Fill Your Calendar With Qualified <span className='text-red-500'>Quote-Ready Leads FOR FREE</span>
@@ -61,7 +61,7 @@ export default function Home() {
         Yes we&apos;ll work as your company&apos;s personalised sales & marketing team
       </div>
       <div className='md:text-xl font-semibold md:mb-4'>
-        YES WE WORK <span className='text-red-500'>COMPLETELY FOR FREE !!!</span>
+        YES, WE WORK <span className='text-red-500'>COMPLETELY FOR FREE !!!</span>
       </div>
       <div className='mx-auto basis-auto'>
       <div className='relative md:p-[20%] p-[40%]'><iframe id='vid' src="https://player.vimeo.com/video/886109081?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" style={{position:"absolute",top:0,left:0,width:"100%",height:"100%"}} title="vsl"></iframe></div>
