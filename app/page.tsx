@@ -4,30 +4,12 @@ import genz from '../public/genzLogo.png'
 import reno from '../public/renoblade.png'
 import Image from 'next/image'
 
-/*
-class="Button_module_button__f5fb72bd shared_module_focusable__63d26f6d Button_module_customColor__f5fb72bd Button_module_md__f5fb72bd Button_module_icon__f5fb72bd Tooltip_module_tooltipContainer__21ae5b80 exclude-global-button-styles PlayButton_module_playButton__fc6bec57 shared_module_focusable__63d26f6d"
-".Button_module_button__f5fb72bd .shared_module_focusable__63d26f6d .Button_module_customColor__f5fb72bd .Button_module_md__f5fb72bd .Button_module_icon__f5fb72bd .Tooltip_module_tooltipContainer__21ae5b80 .exclude-global-button-styles .PlayButton_module_playButton__fc6bec57 .shared_module_focusable__63d26f6d"
-*/
-
-let WAIT
-let counter = 0
-
 export default function Home() {
   const [isClient, setIsClient] = useState(false)
  
   useEffect(() => {
     setIsClient(true)
-    // autoPlay()
   }, [])
-
-  // const autoPlay = () => {
-  //   setInterval(function () {
-  //     const active = document.getElementById("vid");
-  //     const lol = active?.contentWindow.document
-  //     console.log(lol)
-  //   }, 3000);
-    
-  // }
 
   return (
   <main>
@@ -70,7 +52,7 @@ export default function Home() {
       {
         isClient && (
           <div id='booking' className=''>
-            <div className="calendly-inline-widget" data-url="https://calendly.com/renoblade/30min" style={{minWidth:"320px",height:"700px"}}></div>
+            <div className="calendly-inline-widget" data-url="https://calendly.com/ren0blade/30min" style={{minWidth:"320px",height:"700px"}}></div>
             <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
           </div>
         )
